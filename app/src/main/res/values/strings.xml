@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="tab_text_1">Current Weather</string>
+    <string name="tab_text_2">Forecast Weather</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Forecast fragment</string>
+
+    <string name="api_key">aed55180eb4499198bd1d1835e5b6b23</string>
+</resources>
